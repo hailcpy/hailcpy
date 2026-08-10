@@ -1,6 +1,6 @@
 ## hey, i'm aditya 👋
 
-full-stack AI engineer, 4+ years. high agency, 0-to-1. shipped agentic systems in production where reliability actually matters — enterprise automation in finance and AI-driven SOC in cybersecurity.
+full-stack AI engineer, 4+ years. shipped agentic systems in production - enterprise automation in finance and AI-driven SOC in cybersecurity.
 
 > **bftools** — reverse-engineered EA's Battlefield protocols to build a server management + analytics platform.
 
