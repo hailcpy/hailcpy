@@ -16,3 +16,4 @@ full-stack AI engineer, 4+ years. shipped agentic systems in production - enterp
 ---
 
 📬 jaditya8889@gmail.com
+Apache Doris Community Badge
